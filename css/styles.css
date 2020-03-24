@@ -91,7 +91,9 @@ hr{
     width: 40%;
     margin: 40px auto 60px;
 }
-
+.copyright{
+    font-size: 40%;
+}
 .intro{
     width:30%;
     margin:auto;
